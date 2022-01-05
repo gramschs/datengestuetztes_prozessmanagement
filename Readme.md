@@ -7,3 +7,5 @@ Links to mybinder.org
 * https://mybinder.org/v2/gh/gramschs/datengestuetztes_prozessmanagement/HEAD?labpath=part07_visualisierung.ipynb
 
 * https://mybinder.org/v2/gh/gramschs/datengestuetztes_prozessmanagement/HEAD?labpath=part08_visualisierung.ipynb
+
+* https://mybinder.org/v2/gh/gramschs/datengestuetztes_prozessmanagement/HEAD?labpath=part09_ml_workflow.ipynb
